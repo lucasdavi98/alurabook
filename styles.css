@@ -1,11 +1,11 @@
-raiz {
-    --cor-de-fundo: #c8cace;
+:root {
+    --cor-de-fundo: #EBECEE;
 }
 
-corpo {
+body {
     background-color: var(--cor-de-fundo);
 }
 
 h1 {
-    cor de fundo : branco;
+    background-color: white;
 }
